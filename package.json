@@ -1,0 +1,19 @@
+{
+  "name": "alex-chat-commandline",
+  "version": "1.0.0",
+  "description": "Alex Chat, but on the command line, which will probably never be finished",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CheeseInTheDark/alex-chat-commandline.git"
+  },
+  "author": "CheeseInTheDark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CheeseInTheDark/alex-chat-commandline/issues"
+  },
+  "homepage": "https://github.com/CheeseInTheDark/alex-chat-commandline#readme"
+}
